@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markdown-to-project-page-mvp/static/css/main.a7ac2da5.css",
+    "main.js": "/markdown-to-project-page-mvp/static/js/main.a80671e2.js",
+    "index.html": "/markdown-to-project-page-mvp/index.html",
+    "main.a7ac2da5.css.map": "/markdown-to-project-page-mvp/static/css/main.a7ac2da5.css.map",
+    "main.a80671e2.js.map": "/markdown-to-project-page-mvp/static/js/main.a80671e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ac2da5.css",
+    "static/js/main.a80671e2.js"
+  ]
+}
